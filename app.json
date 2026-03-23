@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "KanbanPanosu",
+    "slug": "kanban-panosu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./public/pwa-512x512.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./public/pwa-512x512.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./public/pwa-512x512.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kanban.app"
+    },
+    "web": {
+      "favicon": "./public/pwa-192x192.png"
+    }
+  }
+}
