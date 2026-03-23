@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./public/pwa-192x192.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e8820dfa-de49-4715-a43a-03fd18b63ccc"
+      }
+    },
+    "owner": "habil3471"
   }
 }
